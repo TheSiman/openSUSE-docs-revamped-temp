@@ -83,7 +83,7 @@ At scale the openSUSE Project benefits more from users in position to report bug
 
 ### openSUSE MicroOS as desktop workstation
 
-Although it is not recommended for new users, it is possible to use MicroOS on a desktop computer, taking advantage of transactional updates. Consider our [guide to get started](microos_getting_started.md).
+Although it is not recommended for new users, it is possible to use MicroOS on a desktop computer, taking advantage of transactional updates. Consider our [guide to get started](https://en.opensuse.org/Portal:MicroOS).
 
 MicroOS might appeal to advanced users familiar with the command line and willing to configure the system in a fine-grained manner. The tradeoff of this extra bit of learning at start means that users get a tailor-fit system requiring little to no maintenance. This latter advantage makes the system especially suited for friends and relatives with little to no experience of Linux or openSUSE, provided the configuration is done by someone knowledgeable.
 
